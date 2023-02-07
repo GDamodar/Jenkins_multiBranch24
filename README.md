@@ -1,8 +1,7 @@
 New changes done by developer
 
-some more changes dondddddddeddd
+Hi 
+Hello
+some more changes done in master branch.
 
-
-cccccc
-dfgdsgfdsdgfsdgdfdfd
 
